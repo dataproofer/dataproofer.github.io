@@ -37,7 +37,7 @@ a:hover,a:visited{color:#000;opacity:.5;-ms-filter:"progid:DXImageTransform.Micr
 .use-section#documentation{background-color:#c8dff3}
 .use-section#documentation h3{color:#fff;background-color:#2e94f6}
 #use-dataproofer .use-section{width:47%;display:inline-block;vertical-align:top;padding:1em;margin:1%;text-align:center}
-#use-dataproofer .use-section li{border-bottom:1px solid rgba(255,255,255,.2);padding:1em;font-size:1.5em;text-align:left;list-style-type:none}
+#use-dataproofer .use-section li{border-bottom:1px solid rgba(255,255,255,.2);padding:1em 0.5em;font-size:1.5em;text-align:left;list-style-type:none}
 #contact-us .contact-section{width:29%;display:inline-block;border:1px solid #000;margin:2%;overflow:hidden;text-align:center;padding:1em 0}
 #funding{text-align:center}
 @media only screen and (max-width:767px){#container{width:100%;max-width:720px;margin:0;padding:2px}
